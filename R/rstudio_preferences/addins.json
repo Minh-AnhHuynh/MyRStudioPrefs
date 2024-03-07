@@ -8,5 +8,8 @@
     "activatePackages": "Ctrl+-",
     "helpSearch": "Ctrl+Shift+H",
     "styler::style_active_file": "Ctrl+Shift+T",
-    "extraInserts::insertIn": "Ctrl+I"
+    "extraInserts::insertIn": "Ctrl+I",
+    "shrtcts::shortcut_01": "Alt+a",
+    "extraInserts::insertAssignmentPipe": "Ctrl+<",
+    "extraInserts::insertRightAssignment": "Ctrl+Shift+>"
 }

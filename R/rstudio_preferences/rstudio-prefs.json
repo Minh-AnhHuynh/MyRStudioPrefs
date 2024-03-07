@@ -1,9 +1,8 @@
 {
     "jobs_tab_visibility": "shown",
     "initial_working_directory": "~",
-    "editor_theme": "Dracula",
+    "editor_theme": "Merbivore",
     "windows_terminal_shell": "win-ps",
-    "show_indent_guides": true,
     "highlight_r_function_calls": true,
     "rainbow_parentheses": true,
     "auto_detect_indentation": true,
@@ -13,7 +12,7 @@
     "default_sweave_engine": "knitr",
     "default_latex_program": "XeLaTeX",
     "use_tinytex": true,
-    "spelling_dictionary_language": "en_AU",
+    "spelling_dictionary_language": "fr_FR",
     "show_doc_outline_rmd": true,
     "show_rmd_render_command": true,
     "graphics_backend": "ragg",
@@ -29,5 +28,7 @@
     "style_diagnostics": true,
     "source_with_echo": true,
     "warn_variable_defined_but_not_used": true,
-    "save_files_before_build": true
+    "save_files_before_build": true,
+    "save_workspace": "never",
+    "pdf_previewer": "none"
 }
