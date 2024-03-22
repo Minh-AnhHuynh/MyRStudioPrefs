@@ -11,5 +11,6 @@
     "extraInserts::insertIn": "Ctrl+I",
     "shrtcts::shortcut_01": "Alt+a",
     "extraInserts::insertAssignmentPipe": "Ctrl+<",
-    "extraInserts::insertRightAssignment": "Ctrl+Shift+>"
+    "extraInserts::insertRightAssignment": "Ctrl+Shift+>",
+    "devtools::run_examples": "Ctrl+Shift+X"
 }

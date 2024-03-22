@@ -9,5 +9,6 @@
     "helpSearch": "Ctrl+Shift+H",
     "goToFileFunction": "Ctrl+;",
     "activateTerminal": "Ctrl+'",
-    "insertAssignmentOperator": "Alt+6"
+    "insertAssignmentOperator": "Alt+6",
+    "clearWorkspace": "Ctrl+Shift+W"
 }
