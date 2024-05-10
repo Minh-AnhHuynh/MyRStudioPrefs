@@ -1,7 +1,7 @@
 {
     "insertPipeOperator": "Ctrl+P",
     "saveSourceDoc": "Ctrl+S",
-    "activateEnvironment": "Ctrl+G",
+    "activateEnvironment": "Ctrl+E",
     "activateSource": "Ctrl+7",
     "activateConsole": "Ctrl+2",
     "activateHelp": "Ctrl+H",
@@ -10,5 +10,6 @@
     "goToFileFunction": "Ctrl+;",
     "activateTerminal": "Ctrl+'",
     "insertAssignmentOperator": "Alt+6",
-    "clearWorkspace": "Ctrl+Shift+W"
+    "clearWorkspace": "Ctrl+Shift+W",
+    "modifyKeyboardShortcuts": "Alt+Shift+K"
 }
