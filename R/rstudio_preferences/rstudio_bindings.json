@@ -11,5 +11,7 @@
     "activateTerminal": "Ctrl+'",
     "insertAssignmentOperator": "Alt+6",
     "clearWorkspace": "Ctrl+Shift+W",
-    "modifyKeyboardShortcuts": "Alt+Shift+K"
+    "modifyKeyboardShortcuts": "Alt+Shift+K",
+    "expandToMatching": "Ctrl+Shift+M|Ctrl+Shift+M|Alt+Shift+A",
+    "jumpToMatching": "Ctrl+Alt+A"
 }

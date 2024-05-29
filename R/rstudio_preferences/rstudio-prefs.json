@@ -31,7 +31,6 @@
     "save_files_before_build": true,
     "save_workspace": "never",
     "pdf_previewer": "none",
-    "copilot_enabled": true,
     "copilot_indexing_enabled": true,
     "load_workspace": false,
     "remove_history_duplicates": true,
