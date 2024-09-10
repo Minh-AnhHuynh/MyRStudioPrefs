@@ -1,7 +1,7 @@
 {
     "jobs_tab_visibility": "shown",
     "initial_working_directory": "~",
-    "editor_theme": "Monokai",
+    "editor_theme": "Vibrant Ink",
     "windows_terminal_shell": "win-ps",
     "highlight_r_function_calls": true,
     "rainbow_parentheses": true,
@@ -31,6 +31,7 @@
     "save_files_before_build": true,
     "save_workspace": "never",
     "pdf_previewer": "none",
+    "copilot_enabled": true,
     "copilot_indexing_enabled": true,
     "load_workspace": false,
     "remove_history_duplicates": true,
