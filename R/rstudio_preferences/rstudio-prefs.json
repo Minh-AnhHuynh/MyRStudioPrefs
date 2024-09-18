@@ -1,7 +1,7 @@
 {
     "jobs_tab_visibility": "shown",
     "initial_working_directory": "~",
-    "editor_theme": "Monokai",
+    "editor_theme": "Vibrant Ink",
     "windows_terminal_shell": "win-ps",
     "highlight_r_function_calls": true,
     "rainbow_parentheses": true,
@@ -26,7 +26,6 @@
     "syntax_color_console": true,
     "console_double_click_select": true,
     "style_diagnostics": true,
-    "source_with_echo": true,
     "warn_variable_defined_but_not_used": true,
     "save_files_before_build": true,
     "save_workspace": "never",
@@ -34,5 +33,13 @@
     "copilot_indexing_enabled": true,
     "load_workspace": false,
     "remove_history_duplicates": true,
-    "rmd_viewer_type": "none"
+    "rmd_viewer_type": "none",
+    "spelling_custom_dictionaries": [
+        "en_MED"
+    ],
+    "copilot_enabled": true,
+    "sync_files_pane_working_dir": true,
+    "show_invisibles": true,
+    "insert_native_pipe_operator": true,
+    "view_dir_after_r_cmd_check": true
 }
