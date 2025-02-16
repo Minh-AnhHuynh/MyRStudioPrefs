@@ -13,3 +13,4 @@ start_backup_prefs(github_backup = TRUE)
 # - Monokai
 # - Dracula
 # - Vibrant Ink
+# - Chaos
