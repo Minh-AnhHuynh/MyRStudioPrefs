@@ -15,5 +15,6 @@
     "expandToMatching": "Ctrl+Shift+M|Ctrl+Shift+M|Alt+Shift+A",
     "jumpToMatching": "Ctrl+Alt+A",
     "closeAllSourceDocs": "",
-    "splitIntoLines": "Ctrl+Shift+L"
+    "splitIntoLines": "Ctrl+Shift+L",
+    "freeUnusedMemory": "Alt+G"
 }
