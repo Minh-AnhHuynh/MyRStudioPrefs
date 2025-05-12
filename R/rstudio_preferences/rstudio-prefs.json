@@ -44,5 +44,7 @@
     "visual_markdown_code_editor_line_numbers": true,
     "show_publish_diagnostics": true,
     "rmd_viewer_type": "none",
-    "scroll_past_end_of_document": true
+    "scroll_past_end_of_document": true,
+    "default_open_project_location": "D:/Library/Code/R",
+    "project_user_data_directory": "D:/Library/Code/R"
 }
