@@ -20,5 +20,6 @@
     "quitSession": "",
     "reflowComment": "Ctrl+Shift+/",
     "showVcsOptions": "",
-    "expandToLine": "Alt+S"
+    "expandToLine": "Alt+S",
+    "freeUnusedMemory": "Alt+G"
 }
