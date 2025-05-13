@@ -1,4 +1,4 @@
-librarian::shelf("Minh-AnhHuynh/RStudioBackupPrefs")
+pacman::p_load_gh("Minh-AnhHuynh/RStudioBackupPrefs")
 
 # Start importing preferences
 start_import_prefs()
