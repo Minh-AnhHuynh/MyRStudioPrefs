@@ -1,6 +1,6 @@
 {
     "jobs_tab_visibility": "shown",
-    "initial_working_directory": "D:/Library/Code/R",
+    "initial_working_directory": "D:/Libraries/Code/R",
     "editor_theme": "Vibrant Ink",
     "windows_terminal_shell": "win-ps",
     "auto_detect_indentation": true,
@@ -41,8 +41,8 @@
     "visual_markdown_code_editor_line_numbers": true,
     "show_publish_diagnostics": true,
     "scroll_past_end_of_document": true,
-    "default_open_project_location": "D:/Library/Code/R",
-    "project_user_data_directory": "D:/Library/Code/R",
+    "default_open_project_location": "D:/Libraries/Code/R",
+    "project_user_data_directory": "D:/Libraries/Code/R",
     "python_type": "system",
     "python_version": "3.13.3",
     "python_path": "C:/Users/Minh-Anh/AppData/Local/Programs/Python/Python313/python.exe",
