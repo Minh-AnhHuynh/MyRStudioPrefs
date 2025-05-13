@@ -9,12 +9,17 @@
     "helpSearch": "Ctrl+Shift+H",
     "goToFileFunction": "Ctrl+;",
     "activateTerminal": "Ctrl+\"",
-    "insertAssignmentOperator": "Alt+6",
+    "insertAssignmentOperator": "Ctrl+<",
     "clearWorkspace": "Ctrl+Shift+W",
     "modifyKeyboardShortcuts": "Alt+Shift+K",
     "expandToMatching": "Ctrl+Shift+M|Ctrl+Shift+M|Alt+Shift+A",
     "jumpToMatching": "Ctrl+Alt+A",
     "closeAllSourceDocs": "",
     "splitIntoLines": "Ctrl+Shift+L",
+    "quartoRenderDocument": "Ctrl+Shift+Q",
+    "quitSession": "",
+    "reflowComment": "Ctrl+Shift+/",
+    "showVcsOptions": "",
+    "expandToLine": "Alt+S",
     "freeUnusedMemory": "Alt+G"
 }

@@ -11,3 +11,12 @@ I'm using this by providing the link https://github.com/Minh-AnhHuynh/MyRStudioP
 
 # Start github backup
 `start_backup_prefs(github_backup = TRUE)`
+
+# My shortcuts
+
+- `Ctrl + Shift + R` to Reformat code (changed from `Ctrl + Shift + A`)
+- `Ctrl + Shift + A` to expand to matching bracket
+- `Ctrl + A` to select to matching bracket
+- `Alt + A` to jump to matching bracket
+- `Ctrl + Shift + T` to style file (requires `styler` package)
+- `Ctrl + Shift + W` to clear objects from workspace
